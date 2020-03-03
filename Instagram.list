@@ -1,6 +1,6 @@
 # > Instagram
-host-suffix,instagram.com
-host-suffix,cdninstagram.com
-host-suffix,fbcdn.net
+DOMAIN-SUFFIX,instagram.com, Instagram
+DOMAIN-SUFFIX,cdninstagram.com, Instagram
+DOMAIN-SUFFIX,fbcdn.net, Instagram
 host-keyword, instagram, Instagram
 host-keyword, cdninstagram, Instagram
